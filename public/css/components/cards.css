@@ -1,0 +1,6 @@
+@layer cards {
+    .divBox {
+        @apply
+        border-solid border-black w-32 b bg-black
+    }
+}
